@@ -24,7 +24,7 @@ typedef struct packet_target
 	int		iMaxHP;
 #endif
 #ifdef ENABLE_TARGET_REAL_LEVEL
-	int		bLevel;
+	BYTE		bLevel;
 #endif
 
 } TPacketGCTarget;
