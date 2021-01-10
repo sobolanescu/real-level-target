@@ -42,7 +42,7 @@ Add:
 		else
 		{
 			p.bLevel = m_pkChrTarget->GetLevel();
-		]
+		}
 #endif
 
 
