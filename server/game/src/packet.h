@@ -23,7 +23,7 @@ typedef struct packet_target
 	int		iMinHP;
 	int		iMaxHP;
 #endif
-#ifdef ENABLE_TARGET_LEVEL_PACK
+#ifdef ENABLE_TARGET_REAL_LEVEL
 	int		bLevel;
 #endif
 
