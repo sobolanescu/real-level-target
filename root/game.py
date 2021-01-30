@@ -14,5 +14,4 @@ Chnage in:
 				self.targetBoard.SetEnemyVID(vid, bLevel)
 			
 			self.targetBoard.SetHP(hpPercentage, iMinHP, iMaxHP)
-			self.targetBoard.SetElementImage(bElement)
 			self.targetBoard.Show()
